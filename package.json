@@ -10,6 +10,7 @@
     "@sap/hana-client": "^2.6.61",
     "@sap/xb-msg-amqp-v100": "^0.9.51",
     "@sap/xssec": "^3.2.1",
+    "detect-libc": "^2.0.1",
     "express": "^4",
     "hdb": "^0.18.3",
     "passport": "^0.4.1"
@@ -57,8 +58,8 @@
       "uaa": {
         "kind": "xsuaa"
       },
-      "auth": { 
-        "kind": "dummy-auth" 
+      "auth": {
+        "kind": "dummy-auth"
       },
       "messaging": {
         "kind": "enterprise-messaging-shared",

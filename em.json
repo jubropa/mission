@@ -1,31 +1,8 @@
 {
-  "emname": "seniority_calculator",
-  "namespace": "sap/successfactors/SFPART057671",
-  "options": {
-    "management": true,
-    "messaging": true,
-    "messagingrest": true
-  },
-  "resources": {
-    "units": "10"
-  },
-  "rules": {
-    "queueRules": {
-      "publishFilter": [
-        "${namespace}/*"
-      ],
-      "subscribeFilter": [
-        "${namespace}/*"
-      ]
-    },
-    "topicRules": {
-      "publishFilter": [
-        "${namespace}/*"
-      ],
-      "subscribeFilter": [
-        "${namespace}/*"
-      ]
+    "emname": "seniority_calculator",
+    "options": {
+      "management": true,
+      "messaging": true,
+      "messagingrest": true
     }
-  },
-  "version": "1.1.0"
-}
+  }
