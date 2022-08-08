@@ -5,7 +5,7 @@ module.exports = async srv => {
 
     const { Employee } = srv.entities
 
-    messaging.on('sap/successfactors/SFPART057671/isc/contractchange', async (msg) => {
+    messaging.on('sap/successfactors/mySF/isc/contractchange', async (msg) => {
         console.log("<< create event caught", msg);
 
         
