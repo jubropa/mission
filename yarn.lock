@@ -57,9 +57,9 @@
     "winston" "^3.3.3"
 
 "@sap/cds-compiler@^2.13.0":
-  "integrity" "sha512-CyfoG0Hqrlgj13uMsoO9OBLjtCdqnAr1Z8rvMY8V72X5EsjcN0RrUP1M60BOBcarbA7uksCX4Lg7rfcCc6lmAg=="
-  "resolved" "http://nginx-redirector.repo-cache.svc.cluster.local/repository/appstudio-npm-group/@sap/cds-compiler/-/cds-compiler-2.15.6.tgz"
-  "version" "2.15.6"
+  "integrity" "sha512-wctr9hOeKbmuO2Hfu/hBNwCZbxRI4hy3FkVamVC4EyA1B2X4DKYIJaD5do1Yb1q8AiGEauQIq/rsGZt8DaTe1Q=="
+  "resolved" "http://nginx-redirector.repo-cache.svc.cluster.local/repository/appstudio-npm-group/@sap/cds-compiler/-/cds-compiler-2.15.8.tgz"
+  "version" "2.15.8"
   dependencies:
     "antlr4" "4.8.0"
 
@@ -131,9 +131,9 @@
     "@types/node" "*"
 
 "@types/node@*":
-  "integrity" "sha512-6qKpDtoaYLM+5+AFChLhHermMQxc3TOEFIDzrZLPRGHPrLEwqFkkT5Kx3ju05g6X7uDPazz3jHbKPX0KzCjntg=="
-  "resolved" "http://nginx-redirector.repo-cache.svc.cluster.local/repository/appstudio-npm-group/@types/node/-/node-18.6.3.tgz"
-  "version" "18.6.3"
+  "integrity" "sha512-I4BD3L+6AWiUobfxZ49DlU43gtI+FTHSv9pE2Zekg6KjMpre4ByusaljW3vYSLJrvQ1ck1hUaeVu8HVlY3vzHg=="
+  "resolved" "http://nginx-redirector.repo-cache.svc.cluster.local/repository/appstudio-npm-group/@types/node/-/node-18.6.4.tgz"
+  "version" "18.6.4"
 
 "accepts@~1.3.8":
   "integrity" "sha512-PYAthTa2m2VKxuvSD3DPC/Gy+U+sOA1LAuT8mkmRuvw+NACSaeXEQ+NHcVF7rONl6qcaxV3Uuemwawk+7+SJLw=="
@@ -1001,13 +1001,13 @@
   "version" "1.1.1"
 
 "object.assign@^4.1.2":
-  "integrity" "sha512-ixT2L5THXsApyiUPYKmW+2EHpXXe5Ii3M+f4e+aJFAHao5amFRW6J0OO6c/LU8Be47utCx2GL89hxGB6XSmKuQ=="
-  "resolved" "http://nginx-redirector.repo-cache.svc.cluster.local/repository/appstudio-npm-group/object.assign/-/object.assign-4.1.2.tgz"
-  "version" "4.1.2"
+  "integrity" "sha512-ZFJnX3zltyjcYJL0RoCJuzb+11zWGyaDbjgxZbdV7rFEcHQuYxrZqhow67aA7xpes6LhojyFDaBKAFfogQrikA=="
+  "resolved" "http://nginx-redirector.repo-cache.svc.cluster.local/repository/appstudio-npm-group/object.assign/-/object.assign-4.1.3.tgz"
+  "version" "4.1.3"
   dependencies:
-    "call-bind" "^1.0.0"
-    "define-properties" "^1.1.3"
-    "has-symbols" "^1.0.1"
+    "call-bind" "^1.0.2"
+    "define-properties" "^1.1.4"
+    "has-symbols" "^1.0.3"
     "object-keys" "^1.1.1"
 
 "on-finished@2.4.1":
